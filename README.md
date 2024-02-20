@@ -1,2 +1,3 @@
 # my-work
-I am web devolper
+This is my first Git Repository
+Author-Muhammad Huzaifa
